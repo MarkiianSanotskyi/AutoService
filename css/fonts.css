@@ -1,0 +1,91 @@
+
+
+
+
+@font-face {
+    font-family: 'caviar_dreamsregular';
+    src: url('../fonts/caviardreams-webfont.eot');
+    src: url('../fonts/caviardreams-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/caviardreams-webfont.woff2') format('woff2'),
+         url('../fonts/caviardreams-webfont.woff') format('woff'),
+         url('../fonts/caviardreams-webfont.ttf') format('truetype'),
+         url('../fonts/caviardreams-webfont.svg#caviar_dreamsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'fira_sanslight';
+    src: url('../fonts/firasans-light-webfont.eot');
+    src: url('../fonts/firasans-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/firasans-light-webfont.woff2') format('woff2'),
+         url('../fonts/firasans-light-webfont.woff') format('woff'),
+         url('../fonts/firasans-light-webfont.ttf') format('truetype'),
+         url('../fonts/firasans-light-webfont.svg#fira_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'fira_sanslight_italic';
+    src: url('../fonts/firasans-lightitalic-webfont.eot');
+    src: url('../fonts/firasans-lightitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/firasans-lightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/firasans-lightitalic-webfont.woff') format('woff'),
+         url('../fonts/firasans-lightitalic-webfont.ttf') format('truetype'),
+         url('../fonts/firasans-lightitalic-webfont.svg#fira_sanslight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'fira_sansregular';
+    src: url('../fonts/firasans-regular-webfont.eot');
+    src: url('../fonts/firasans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/firasans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/firasans-regular-webfont.woff') format('woff'),
+         url('../fonts/firasans-regular-webfont.ttf') format('truetype'),
+         url('../fonts/firasans-regular-webfont.svg#fira_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'caviar_dreamsbold';
+    src: url('../fonts/caviardreams_bold-webfont.eot');
+    src: url('../fonts/caviardreams_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/caviardreams_bold-webfont.woff2') format('woff2'),
+         url('../fonts/caviardreams_bold-webfont.woff') format('woff'),
+         url('../fonts/caviardreams_bold-webfont.ttf') format('truetype'),
+         url('../fonts/caviardreams_bold-webfont.svg#caviar_dreamsbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'lucida_granderegular';
+    src: url('../fonts/8291-webfont.eot');
+    src: url('../fonts/8291-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/8291-webfont.woff2') format('woff2'),
+         url('../fonts/8291-webfont.woff') format('woff'),
+         url('../fonts/8291-webfont.ttf') format('truetype'),
+         url('../fonts/8291-webfont.svg#lucida_granderegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

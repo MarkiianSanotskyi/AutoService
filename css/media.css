@@ -1,0 +1,213 @@
+@media (min-width: 1200px){#about-us .about-text-box{min-height:250px;}ul.our-services-list li .image-box{    width: 331px;
+    height: 285px;    line-height: 285px;}
+	ul.our-services-list:before{margin-left:-197px;}
+	.our-services-box:after{    top: 64px;
+    right: -72px;}
+	ul.our-services-list{margin-bottom:122px;
+	
+	}
+	ul.top-nav{text-align:center;    width: 100%;}
+	#about-us p{font-size:17px;}
+	ul.services-inner-list li .text-box p{font-size:17px;}
+	ul.services-inner-list li:first-child .image-box img{width:250px;}
+	ul.services-inner-list li:nth-child(2) .image-box img{width:230px;}
+	.col-md-4.non-position.no-padding {
+    min-height: 230px;
+}
+ul.services-inner-list li:nth-child(2) .image-box{top:-22px;}
+ul.services-inner-list li:nth-child(3) .image-box img{width:240px;}
+ul.services-inner-list li:nth-child(4) .image-box img{width:163px;}
+ul.services-inner-list li:nth-child(5) .image-box img,
+ul.services-inner-list li:nth-child(6) .image-box img{width:166px;}
+ul.services-inner-list li:nth-child(7) .image-box img,
+ul.services-inner-list li:nth-child(8) .image-box img{width:250px;}
+ul.services-inner-list li:nth-child(9) .image-box img{width:230px;}
+ul.services-inner-list li:nth-child(3) .image-box{top:-23px;}
+ul.services-inner-list li:nth-child(4) .image-box{top:-19px;}
+ul.services-inner-list li:nth-child(5) .image-box{top:-20px;}
+ul.services-inner-list li:nth-child(9) .image-box{top:-21px;}
+.price-service{left:90px;}
+.service-box .image-box{max-width:250px;}
+ul.services-inner-list li:first-child .image-box{left:19px;}
+ul.services-inner-list li:nth-child(2) .image-box{left:34px;}
+ul.services-inner-list li:nth-child(3) .image-box{left:23px;}
+ul.services-inner-list li:nth-child(4) .image-box{left:64px;}
+ul.services-inner-list li:nth-child(5) .image-box{left:61px;}
+ul.services-inner-list li:nth-child(6) .image-box{left:62px;}
+ul.services-inner-list li:nth-child(7) .image-box{left:23px;}
+ul.services-inner-list li:nth-child(8) .image-box{left:18px;}
+ul.services-inner-list li:nth-child(9) .image-box{left:29px;}
+
+	}
+@media only screen and (max-width: 991px) and (min-width: 768px){
+	.container.header-total-container{top:170px;}
+	#header:after {
+  
+    width: 400px;
+    height: 191px;
+    
+
+ 
+    bottom: -20px;
+
+    margin-right: -200px;
+    background-size: 400px 191px;
+}
+	#header{height:650px;    background-position: 50% -90px;}
+	#about-us .image-box {
+    width: 100%;
+    height: auto;
+
+    bottom: -66px;
+
+}
+ul.our-services-list li .image-box{width:205px;height:205px;line-height:205px;}
+ul.our-services-list li .image-box img{max-width:180px;}
+.our-services-box:before{top:-12px;}
+ul.our-services-list:before{margin-left:-138px;}
+.our-services-box:after{top:-5px;}
+ul.our-services-list{margin-bottom:30px;}
+#our-services{margin-bottom:115px;}
+.nbs-flexisel-item img {
+
+    max-width:120px;
+
+}
+.title-only{margin-bottom:10px;}
+#our-partners{padding-bottom:40px;}
+.copyright{padding-top:0px;}
+.col-md-4.non-position.no-padding{height:auto !important;}
+.service-box .image-box{display:block;margin:0px auto; position:static !important;top:0px !important;left:0px !important;height:170px;line-height:170px;}
+.price-service{margin:20px auto 30px auto;position:static;}
+.service-box{padding:25px;}
+ul.services-inner-list li .text-box p{text-align:center;}
+#content-box.services-page {
+    padding-bottom: 45px;
+    padding-top: 205px;
+}
+.map-box{height:250px;}
+#content-box.contacts {
+    padding-top: 155px;
+    padding-bottom: 85px;
+}
+.nbs-flexisel-nav-left{left:0px;}
+.nbs-flexisel-nav-right{right:0px;}
+a.button.button-inner{font-size:16px;}
+	}
+	
+	@media only screen and (max-width: 767px) and (min-width: 319px){
+		.top-header{padding-top:19px;}
+		a.logo span,
+		a.logo i{display:none;}
+		a.logo{width:72px;height:72px;padding:0px;}
+		.navbar-default{background:none;border:none;}
+		.navbar-header{text-align:center;}
+		.navbar-toggle {
+    position: relative;
+    float:none;
+    margin-right: 0px;
+    padding: 9px 10px;
+    margin-top: 17px;
+    margin-bottom: 0px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid #436c8d;
+    border-radius: 5px;background-color:#fff;transition: all  0.3s ease-in;-moz-transition: all  0.3s ease-in;-webkit-transition: all  0.3s ease-in;
+}
+.navbar-toggle:hover,
+.navbar-toggle:focus{background-color:#ee523d !important;}
+.navbar-default .navbar-toggle .icon-bar{transition: all  0.3s ease-in;-moz-transition: all  0.3s ease-in;-webkit-transition: all  0.3s ease-in;}
+.navbar-default .navbar-toggle:hover .icon-bar,
+.navbar-default .navbar-toggle:focus .icon-bar{background-color:#fff;}
+.navbar-default .navbar-toggle{border-color:#ee523d;}
+.phone-header i{margin-right:0px;}
+.phone-header i:before{right:4px;}
+.navbar-collapse{border-top:0px;box-shadow:none;background-color:#fff;width: 100%;top:108px;
+    position: absolute;
+    left: 0px;border-bottom:1px solid #436c8d;
+    }
+	
+.navbar-collapse.in{
+
+   }
+   
+   ul.top-nav.nav.navbar-nav{text-align:center;}
+   ul.top-nav li a{color:#4a4a4a;}
+   ul.top-nav li{margin:0px 5px;}
+   ul.top-nav {
+ 
+    padding-top: 32px;
+    padding-bottom: 16px;
+}
+.phone-header{margin-top:13px;padding-top:0px;}
+.container.header-total-container {
+    
+    top: 110px;
+}
+
+#header h6 {
+    font-size: 35px;
+  
+
+    text-align: center;
+}
+#header p{text-align:center;}
+#header:after{display:none;}
+#header a.button{font-size:16px;}
+#header{text-align:center;height:550px;    background-position: 50% -190px;}
+#header.header-inner.fixed a.logo, .top-header-total.fixed a.logo{width:72px;height:72px;padding:0px;}
+#about-us .about-text-box{padding-top:0px;padding-left:0px;}
+#about-us p{text-align:center;}
+#about-us{margin-bottom:95px;}
+.title:after{background-size: 265px 1px;    width: 265px;margin-left: -133px;}
+.title{margin-bottom:75px;}
+ul.our-services-list li .image-box{width:272px;height:272px;line-height:272px;}
+ul.our-services-list li{height:auto;}
+ul.our-services-list li .image-box{margin-bottom:20px;}
+ul.our-services-list li{margin-bottom:45px;}
+.our-services-box:before,
+.our-services-box:after{display:none;}
+ul.our-services-list{margin-bottom:20px;}
+#our-services {
+    margin-bottom: 100px;
+}
+.nbs-flexisel-nav-left {
+    left: 8px;
+}
+.nbs-flexisel-nav-right{right:8px;}
+.title-only{margin-bottom:20px;}
+#our-partners{padding-bottom:40px;}
+.empty{height:230px;}
+#footer{text-align:center;background-image:url(../images/bg-footer-mobile.jpg);height:230px;margin-top:-230px;padding-top:25px;}
+#footer .col-xs-12{margin-bottom:30px;}
+#footer .col-xs-12:last-child{margin-bottom:0px;}
+.copyright{padding-top:0px;}
+.facebook-button a{text-align:left;}
+.powered{text-align:center;}
+
+#header.header-inner{height: 65px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 999;
+    background-position: 50% -62px;
+   
+    width: 100%;}
+.services-page .title {
+    margin-bottom: 60px;
+}
+.our-services-info i{margin:0px auto 0px auto;float:none;}
+.our-services-info span{text-align:center;margin-bottom:20px;}
+.our-services-info .col-xs-12.text-align-right{text-align:center;}
+a.button.button-inner{top:0px;display:inline-block;vertical-align:top;font-size:16px;}
+
+.col-md-4.non-position.no-padding{height:auto !important;}
+.service-box .image-box{display:block;margin:0px auto; position:static !important;top:0px !important;left:0px !important;height:170px;line-height:170px;}
+.price-service{margin:20px auto 30px auto;position:static;}
+.service-box{padding:25px;}
+#content-box.services-page{padding-bottom:45px;padding-top:130px;}
+#content-box.contacts{padding-top:100px;}
+.map-box{height:230px;}
+ul.contacts-box-list li{margin-bottom:10px;}
+#content-box.contacts{padding-bottom:40px;}
+		}
